@@ -11,7 +11,8 @@ return {
 	{ "prettier/vim-prettier" },
 
 	-- UI and UX
-	{ "nvim-treesitter/nvim-treesitter", build = ":UpdateAll" },
+	--	{ "nvim-treesitter/nvim-treesitter", build = ":UpdateAll" },
+	{ "nvim-treesitter/nvim-treesitter" },
 	{ "nvim-treesitter/nvim-treesitter-textobjects" },
 	{ "nvim-treesitter/playground" },
 
