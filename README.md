@@ -15,14 +15,19 @@ Everything i think i need to review or change in the document.
 ### Understand lazy.nvim
 * [ ]  
 * [ ]  
-* [ ]  
-* [ ]  
 
 ### Plugins formating.
 * [ ]  
 * [ ]  
-* [ ]  
-* [ ]  
-* [ ]  
-* [ ] 
 
+## Folder system
+
+  ├── init.lua
+  ├── lua
+  │   ├── config
+  │   │   ├── keymaps.lua
+  │   │   └── options.lua
+  │   └── plugins
+  │       ├── git.lua
+  │       ├── plugins.lua
+  │       └── theme.lua
