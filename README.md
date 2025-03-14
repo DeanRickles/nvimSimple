@@ -1,5 +1,9 @@
 # Introduction
 
+ git clone https://github.com/DeanRickles/nvimSimple.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+
+
+
 The idea of the repository is to setup a simple nvim configuration for my personal use.
   * nvim
   * git 
